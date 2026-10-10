@@ -1,0 +1,10 @@
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+rsconnect/
+
+# OS
+.DS_Store
+Thumbs.db
