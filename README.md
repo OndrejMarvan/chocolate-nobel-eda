@@ -48,3 +48,11 @@ Note: do not put other scripts in a folder called `R/`. Shiny runs every file in
 - The paper reports r = 0.791 (all countries) and r = 0.862 (without Sweden). Our dataset gives 0.801 and 0.875. I could not find the reason in the files. Say this on the slides.
 - The paper says 22 countries in the Methods and 23 in the Results. The dataset has 23.
 - The course data may not be meant for public sharing. Keep the repo private unless you checked.
+
+## Authors
+
+Group project, done together:
+
+- Ondřej Marvan
+- [@BirukZenebe1](https://github.com/BirukZenebe1)
+- [@Rafaleon01](https://github.com/Rafaleon01)
